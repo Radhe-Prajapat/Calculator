@@ -532,6 +532,8 @@ class SuperCalculator {
 }
 
 // Jab document pura properly load ho DOM Engine tayiyar ho tab Calculator App chala do..
+
+
 document.addEventListener('DOMContentLoaded', () => {
     new SuperCalculator();
 });
